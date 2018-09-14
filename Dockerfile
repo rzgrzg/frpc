@@ -1,4 +1,4 @@
-FROM FROM hypriot/rpi-alpine-scratch
+FROM alpine
 
 
 
